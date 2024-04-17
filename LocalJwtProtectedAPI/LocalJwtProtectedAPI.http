@@ -1,0 +1,6 @@
+@LocalJwtProtectedAPI_HostAddress = http://localhost:5264
+
+GET {{LocalJwtProtectedAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
